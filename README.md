@@ -10,4 +10,6 @@ A compatible web driver for your browser (e.g., ChromeDriver for Chrome)
 Using the bot you can apply to multiple jobs effortlessly.
 
 I have used Selenium to create it.
-t.
+
+
+The above code is customized for data scientist job role, you can customize it for any specific roles
