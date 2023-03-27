@@ -5,3 +5,9 @@ Requirements
 Python 3.x
 Selenium 4.x
 A compatible web driver for your browser (e.g., ChromeDriver for Chrome)
+
+
+Using the bot you can apply to multiple jobs effortlessly.
+
+I have used Selenium to create it.
+t.
